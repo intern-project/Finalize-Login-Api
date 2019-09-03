@@ -1,0 +1,5 @@
+C:\Users\scienter\Desktop\MyApi\MyApi\TimeManagment.data\bin\Debug\netcoreapp2.1\TimeManagment.data.deps.json
+C:\Users\scienter\Desktop\MyApi\MyApi\TimeManagment.data\bin\Debug\netcoreapp2.1\TimeManagment.data.dll
+C:\Users\scienter\Desktop\MyApi\MyApi\TimeManagment.data\obj\Debug\netcoreapp2.1\TimeManagment.data.csproj.CoreCompileInputs.cache
+C:\Users\scienter\Desktop\MyApi\MyApi\TimeManagment.data\obj\Debug\netcoreapp2.1\TimeManagment.data.AssemblyInfoInputs.cache
+C:\Users\scienter\Desktop\MyApi\MyApi\TimeManagment.data\obj\Debug\netcoreapp2.1\TimeManagment.data.AssemblyInfo.cs
